@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ogg_dynamic", "ogg_dynamic.vcxproj", "{93679E41-8971-4555-9F7F-1AD45120BFAC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ogg_static", "ogg_static.vcxproj", "{3EC58981-8C18-4DB6-A815-E182FCF37355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Debug|x86.Build.0 = Debug|Win32
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Release|x86.ActiveCfg = Release|Win32
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Release|x86.Build.0 = Release|Win32
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Template|x86.ActiveCfg = Release|Win32
+		{93679E41-8971-4555-9F7F-1AD45120BFAC}.Template|x86.Build.0 = Release|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Debug|x86.Build.0 = Debug|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Release|x86.ActiveCfg = Release|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Release|x86.Build.0 = Release|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Template|x86.ActiveCfg = Template|Win32
+		{3EC58981-8C18-4DB6-A815-E182FCF37355}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6F44B1-DC7C-4233-99F9-4A47738FE48B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+﻿getopt.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  speexdec.vcxproj -> C:\Users\Administrator\Desktop\github_code\speex_decoder\speex_decoder\speex-1.2.0\win32\VS2008\Debug\speexdec.exe
