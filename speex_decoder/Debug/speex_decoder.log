@@ -1,2 +1,125 @@
 ﻿  main.c
-  speex_decoder.vcxproj -> C:\Users\Administrator\Desktop\github_code\speex_decoder\Debug\speex_decoder.exe
+  bits.c
+  buffer.c
+  exc_10_16_table.c
+  exc_10_32_table.c
+  exc_20_32_table.c
+  exc_5_256_table.c
+  exc_5_64_table.c
+  exc_8_128_table.c
+  fftwrap.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\fftwrap.c(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\fftwrap.c(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\fftwrap.c(333): warning C4133: “函数”: 从“spx_word16_t [2048]”到“float *”的类型不兼容
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\fftwrap.c(369): warning C4133: “函数”: 从“spx_word16_t [2048]”到“float *”的类型不兼容
+  filterbank.c
+  gain_table.c
+  gain_table_lbr.c
+  hexc_10_32_table.c
+  hexc_table.c
+  high_lsp_tables.c
+  jitter.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\jitter.c(203): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\jitter.c(236): warning C4244: “=”: 从“float”转换到“spx_int32_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\jitter.c(447): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\jitter.c(696): warning C4018: “<”: 有符号/无符号不匹配
+  kiss_fft.c
+  kiss_fftr.c
+  lpc.c
+  正在生成代码...
+  正在编译...
+  lsp.c
+  lsp_tables_nb.c
+  mdf.c
+  modes_wb.c
+  preprocess.c
+  resample.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(277): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(281): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(281): warning C4244: “return”: 从“double”转换到“spx_word16_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(356): warning C4244: “=”: 从“float”转换到“spx_word32_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(595): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(676): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(684): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(687): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(694): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(860): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(863): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(916): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(918): warning C4244: “=”: 从“const float”转换到“spx_word16_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(923): warning C4018: “<”: 有符号/无符号不匹配
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\resample.c(933): warning C4018: “<”: 有符号/无符号不匹配
+  sb_celp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(435): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(437): warning C4305: “=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(439): warning C4305: “=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(449): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(461): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(484): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(1181): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\sb_celp.c(1148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  smallft.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\smallft.c(856): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  speex.c
+  speex_callbacks.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\speex_callbacks.c(121): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+  speex_header.c
+  stereo.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\stereo.c(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\stereo.c(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\stereo.c(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\stereo.c(141): warning C4244: “函数”: 从“float”转换到“spx_word16_t”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\stereo.c(239): warning C4244: “初始化”: 从“float”转换到“spx_word16_t”，可能丢失数据
+  testenc.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(128): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  vbr.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(83): warning C4305: “=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(89): warning C4305: “=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(95): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(187): warning C4305: “-=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(189): warning C4305: “-=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(191): warning C4305: “-=”: 从“double”到“float”截断
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(204): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(206): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(211): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(219): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(240): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(247): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(249): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\vbr.c(252): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  window.c
+  cb_search.c
+  filters.c
+  ltp.c
+  modes.c
+  nb_celp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\stm32\libspeex\nb_celp.c(1312): warning C4244: “=”: 从“spx_int32_t”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\stm32\libspeex\nb_celp.c(1543): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  quant_lsp.c
+  vq.c
+  wav.c
+  正在生成代码...
+  LINK : 没有找到 D:\github_project\speex_decoder\Debug\speex_decoder.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 D:\github_project\speex_decoder\Debug\speex_decoder.lib 和对象 D:\github_project\speex_decoder\Debug\speex_decoder.exp
+  speex_decoder.vcxproj -> D:\github_project\speex_decoder\Debug\speex_decoder.dll

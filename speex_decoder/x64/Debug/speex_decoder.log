@@ -1,0 +1,72 @@
+﻿  main.c
+  bits.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  buffer.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  exc_10_16_table.c
+  fftwrap.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  filterbank.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  gain_table.c
+  jitter.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  kiss_fft.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  kiss_fftr.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  lpc.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  lsp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  lsp_tables_nb.c
+  mdf.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  modes_wb.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  preprocess.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  resample.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  sb_celp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  smallft.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  speex.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  正在生成代码...
+  正在编译...
+  speex_callbacks.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  speex_header.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  stereo.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  testenc.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(128): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(74): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(76): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\testenc.c(80): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  vbr.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  window.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  cb_search.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  filters.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  ltp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  modes.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  nb_celp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  quant_lsp.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  vq.c
+d:\github_project\speex_decoder\speex_decoder\speex_lib\libspeex\arch.h(65): fatal error C1189: #error:  You now need to define either FIXED_POINT or FLOATING_POINT
+  正在生成代码...
