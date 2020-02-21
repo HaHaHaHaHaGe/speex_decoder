@@ -50,7 +50,7 @@
 #endif
 
 //added by MCD Application Team June 2008
-#include "cb_search_cortexM3.h"
+//#include "cb_search_cortexM3.h"
 
 
 #ifndef OVERRIDE_COMPUTE_WEIGHTED_CODEBOOK

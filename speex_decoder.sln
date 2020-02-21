@@ -1,31 +1,43 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "speex_decoder", "speex_decoder\speex_decoder.vcxproj", "{6A239C0C-1152-4890-A6E4-844CB7834741}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "speex_decoder", "speex_decoder\speex_decoder.vcxproj", "{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Debug|x64.ActiveCfg = Debug|x64
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Debug|x64.Build.0 = Debug|x64
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Debug|x86.ActiveCfg = Debug|Win32
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Debug|x86.Build.0 = Debug|Win32
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Release|x64.ActiveCfg = Release|x64
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Release|x64.Build.0 = Release|x64
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Release|x86.ActiveCfg = Release|Win32
-		{6A239C0C-1152-4890-A6E4-844CB7834741}.Release|x86.Build.0 = Release|Win32
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|ARM.Build.0 = Debug|ARM
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|x64.ActiveCfg = Debug|x64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|x64.Build.0 = Debug|x64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|x86.ActiveCfg = Debug|x86
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Debug|x86.Build.0 = Debug|x86
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|ARM.ActiveCfg = Release|ARM
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|ARM.Build.0 = Release|ARM
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|ARM64.Build.0 = Release|ARM64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|x64.ActiveCfg = Release|x64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|x64.Build.0 = Release|x64
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|x86.ActiveCfg = Release|x86
+		{D9048366-C41F-4C6E-8977-3CCCEAAC2EE3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {62ACB7E1-40E6-4056-822C-E6A1410FCB98}
+		SolutionGuid = {30191CE6-E043-4AC1-B8EB-B1E879BC726C}
 	EndGlobalSection
 EndGlobal

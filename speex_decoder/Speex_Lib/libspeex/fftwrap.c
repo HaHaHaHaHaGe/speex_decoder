@@ -38,7 +38,7 @@
 
 #include "arch.h"
 #include "os_support.h"
-
+#define USE_SMALLFT
 #define MAX_FFT_SIZE 2048
 
 #ifdef FIXED_POINT

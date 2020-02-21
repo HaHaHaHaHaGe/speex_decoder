@@ -62,10 +62,10 @@
 #endif
 
 #ifdef __GNUC__     /* GNU Compiler */
-#define OVERRIDE_FILTER_MEM16
-#define OVERRIDE_IIR_MEM16
-#define OVERRIDE_FIR_MEM16
-#include "filters_cortexM3.h"
+//#define OVERRIDE_FILTER_MEM16
+//#define OVERRIDE_IIR_MEM16
+//#define OVERRIDE_FIR_MEM16
+//#include "filters_cortexM3.h"
 #endif
 
 void bw_lpc(spx_word16_t gamma, const spx_coef_t *lpc_in, spx_coef_t *lpc_out, int order)

@@ -119,8 +119,11 @@
 
 #else
 
-#  include <speex/speex_config_types.h>
-
+//#  include <speex/speex_config_types.h>
+typedef int spx_int32_t;
+typedef unsigned int spx_uint32_t;
+typedef short spx_int16_t;
+typedef unsigned short spx_uint16_t;
 #endif
 
 #endif  /* _SPEEX_TYPES_H */

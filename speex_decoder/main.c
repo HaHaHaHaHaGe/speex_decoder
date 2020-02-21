@@ -2,6 +2,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "wav.h"
+
+#define FIXED_POINT
+#define USE_SMALLFT
+#define _CRT_SECURE_NO_DEPRECATE
+
+
 SpeexBits bits;/* Holds bits so they can be read and written by the Speex routines */
 void *enc_state, *dec_state;/* Holds the states of the encoder & the decoder */
 int quality = 4, complexity = 1, vbr = 0, enh = 1;/* SPEEX PARAMETERS, MUST REMAINED UNCHANGED */

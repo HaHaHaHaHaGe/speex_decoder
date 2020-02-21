@@ -57,7 +57,7 @@
 #endif
 
 #ifdef __GNUC__     /* GNU Compiler */
-#define OVERRIDE_VQ_NBEST
+//#define OVERRIDE_VQ_NBEST
 #endif
 
 int scal_quant(spx_word16_t in, const spx_word16_t *boundary, int entries)

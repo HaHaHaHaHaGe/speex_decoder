@@ -66,8 +66,8 @@
 #endif
 
 #ifdef __GNUC__     /* GNU Compiler */
-#define OVERRIDE_INNER_PROD
-#include "ltp_cortexM3.h"
+//#define OVERRIDE_INNER_PROD
+//#include "ltp_cortexM3.h"
 #endif
 
 #ifndef OVERRIDE_INNER_PROD

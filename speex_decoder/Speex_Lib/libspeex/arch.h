@@ -41,8 +41,9 @@
 #define SPEEX_MICRO_VERSION 15        /**< Micro Speex version. */
 #define SPEEX_EXTRA_VERSION ""        /**< Extra Speex version. */
 #define SPEEX_VERSION "speex-1.2beta3"  /**< Speex version string. */
-#endif
 
+#endif
+#define FIXED_POINT
 /* A couple test to catch stupid option combinations */
 #ifdef FIXED_POINT
 
