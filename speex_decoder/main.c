@@ -24,11 +24,12 @@ void Speex_Init(void)
 void recoder_wav_init(__WaveHeader* wavhead, unsigned int fs);
 
 __WaveHeader wavhead;
-char in_path[100];
+char in_path[256];
 int i;
-char *str[] = {"34","G:\\12345.wzr"};
+char *str[] = {"34","C:\\Users\\Administrator\\Desktop\\github_code\\WPF_Rebuild_RecoderServer\\RecoderServerApplication\\RecoderServerApplication\\bin\\Debug\\AudioFile\\20201205103800_A\\_364490949268_2020-12-06-01-00-29-000_REC.wzr"};
 int main(int argc, char **argv)
 {
+
 	if (argc < 2)
 		return 0;
 
